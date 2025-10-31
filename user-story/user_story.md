@@ -56,7 +56,7 @@ UserStory
  
 -------
  
-**ID:** US004 
+**ID:** US004 <br>
 **Título:** Realizar preenchimento de curso e cancelar o cadastro do novo curso - Plataforma Beedoo
  
 **Como** um usuário com permissão para criação de cursos <br>
