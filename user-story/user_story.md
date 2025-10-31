@@ -21,7 +21,7 @@ UserStory
 **ID:** US002  
 **Título:** Exclusão de Curso - Plataforma Beedoo
  
-**Como** um usuário com permissão para exclusão de cursos
+**Como** um usuário com permissão para exclusão de cursos <br>
 **Quero** excluir um curso na plataforma Beedoo  
 **Para** que eu remova um curso na biblioteca da plataforma
  
@@ -40,7 +40,7 @@ UserStory
 **ID:** US003  
 **Título:** Impedir criação de curso com campos obrigatórios não preenchidos  - Plataforma Beedoo
  
-**Como** um usuário com permissão para criação de cursos
+**Como** um usuário com permissão para criação de cursos <br>
 **Quero** incluir um curso na plataforma Beedoo sem preencher os campos obrigatórios
 **Para** que eu garanta que os cursos tenham todos campos devidamente preenchidos
  
@@ -59,7 +59,7 @@ UserStory
 **ID:** US004 
 **Título:** Realizar preenchimento de curso e cancelar o cadastro do novo curso - Plataforma Beedoo
  
-**Como** um usuário com permissão para criação de cursos
+**Como** um usuário com permissão para criação de cursos <br>
 **Quero** incluir um curso na plataforma Beedoo e cancelar depois de preencher
 **Para** que eu garanta que os cursos não sejam criados sem clicar no botão "Cadastrar Curso"
  
