@@ -3,7 +3,7 @@ UserStory
 **ID:** US001  
 **Título:** Criação de Curso - Plataforma Beedoo
  
-**Como** um usuário com permissão para criação de cursos
+**Como** um usuário com permissão para criação de cursos <br>
 **Quero** criar um novo curso na plataforma Beedoo  
 **Para** que aumente a lista de cursos na biblioteca da plataforma
  
