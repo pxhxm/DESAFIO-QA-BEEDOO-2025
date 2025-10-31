@@ -10,7 +10,7 @@ Desafio QA Júnior - Beedoo
 Testes baseados em casos de teste + testes exploratórios, focando na identificação de fluxos alternativos e vulnerabilidades.
  
 ## Links Importantes
-- [Planilha de Casos de Teste (Google Sheets)](https://docs.google.com/spreadsheets/xxxxx)
+- [Planilha de Casos de Teste (Google Sheets)]([https://docs.google.com/spreadsheets/xxxxx](https://docs.google.com/spreadsheets/d/1XeRlq_syPPG3hIelc3BLAJZtBmWinPdHUX5neZoBm8w/edit?usp=sharing))
 - [Evidências (Google Drive)](https://drive.google.com/drive/folders/xxxxx)
  
 ## Autor
