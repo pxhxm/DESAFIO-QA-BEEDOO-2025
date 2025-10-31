@@ -60,7 +60,7 @@ UserStory
 **Título:** Realizar preenchimento de curso e cancelar o cadastro do novo curso - Plataforma Beedoo
  
 **Como** um usuário com permissão para criação de cursos <br>
-**Quero** incluir um curso na plataforma Beedoo e cancelar depois de preencher
+**Quero** incluir um curso na plataforma Beedoo e cancelar depois de preencher <br>
 **Para** que eu garanta que os cursos não sejam criados sem clicar no botão "Cadastrar Curso"
  
 ## Critérios de Aceite
