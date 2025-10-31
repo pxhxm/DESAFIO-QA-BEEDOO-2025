@@ -36,6 +36,6 @@ Relatório de Bugs
 6. Validar que o curso não foi criado na Lista de Cursos
  
 **Resultado Esperado:** Exibir mensagem “Campos obrigatórios não preenchidos!” e o curso não deverá ser exibido na “Lista de Cursos”  
-**Resultado Obtido:** Mensagem de sucesso exibida, e o curso está criado na lista, com o nome em branco. 
+**Resultado Obtido:** Mensagem de sucesso exibida, e o curso está criado na lista, com o nome em branco. <br>
 **Status:** Aberto  
 **Evidência:** (https://docs.google.com/document/d/1HWkL9oI2qhbCPeHcO66KtVW7JbthY03U/edit?usp=drive_link&ouid=106137551970754038384&rtpof=true&sd=true)
