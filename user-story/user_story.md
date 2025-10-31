@@ -41,7 +41,7 @@ UserStory
 **Título:** Impedir criação de curso com campos obrigatórios não preenchidos  - Plataforma Beedoo
  
 **Como** um usuário com permissão para criação de cursos <br>
-**Quero** incluir um curso na plataforma Beedoo sem preencher os campos obrigatórios
+**Quero** incluir um curso na plataforma Beedoo sem preencher os campos obrigatórios <br>
 **Para** que eu garanta que os cursos tenham todos campos devidamente preenchidos
  
 ## Critérios de Aceite
